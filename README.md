@@ -93,6 +93,6 @@ El proyecto permitió aplicar las principales etapas del proceso de minería de 
 
 ## Enlaces
 
-Repositorio GitHub: *(agregar enlace cuando se publique).*
+Repositorio GitHub: https://github.com/jacqandr/PI_Mineria_Datos_1
 
-Aplicación Streamlit: *(agregar enlace cuando se publique).*
+Aplicación Streamlit: https://pimineriadatos1-fukp7mrgj4aki72zap3skp.streamlit.app/
