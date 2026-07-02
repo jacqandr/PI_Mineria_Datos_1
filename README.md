@@ -64,7 +64,7 @@ Este comportamiento es consistente con las bajas correlaciones observadas durant
 
 El proyecto incluye una aplicación desarrollada con **Streamlit**, diseñada para presentar de forma interactiva los principales resultados obtenidos durante el análisis. La aplicación permite explorar el dataset, visualizar los resultados del análisis exploratorio, interpretar el Análisis de Componentes Principales (PCA) y consultar las conclusiones del proyecto mediante una interfaz orientada a usuarios no técnicos.
 
-**Aplicación en Streamlit Cloud:** *(agregar enlace una vez publicada).*
+**Aplicación en Streamlit Cloud:** https://pimineriadatos1-fukp7mrgj4aki72zap3skp.streamlit.app/
 
 
 ## Cómo ejecutar localmente
@@ -72,7 +72,7 @@ El proyecto incluye una aplicación desarrollada con **Streamlit**, diseñada pa
 1. Clonar el repositorio:
 
 ```bash
-git clone <URL_DEL_REPOSITORIO>
+git clone <https://github.com/jacqandr/PI_Mineria_Datos_1>
 ```
 
 2. Instalar las dependencias:
