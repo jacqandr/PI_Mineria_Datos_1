@@ -1,0 +1,9 @@
+Paso,Descripción,Filas,Nulos,Retención (%)
+Carga inicial,Carga del dataset original.,8160,753,100.0
+Eliminación de duplicados,Se eliminaron registros duplicados.,8034,627,98.46
+Tratamiento de valores faltantes,Imputación de valores faltantes según el tipo de variable.,8034,784,98.46
+Normalización de variables categóricas,Unificación de categorías equivalentes.,8034,784,98.46
+Validación de fechas,Conversión de fechas y eliminación de fechas inválidas.,8034,784,98.46
+Corrección de edades,Corrección e imputación de edades fuera de rango.,8034,784,98.46
+Tratamiento de valores extremos,Winsorización y corrección de valores extremos.,8034,784,98.46
+Dataset final,Dataset listo para el análisis exploratorio.,8034,784,98.46
